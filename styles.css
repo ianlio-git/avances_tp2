@@ -157,3 +157,10 @@
 .textolink:hover {
     color: var(--color-1);
 }
+
+.video1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
